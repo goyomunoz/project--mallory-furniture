@@ -6,6 +6,7 @@ Mallory Furniture is a local vintage furniture retailer with a constantly changi
 They have obtained mockups for the site's design, and they have recently built a back-end API that contains their current listings. They now need to implement the front-end functionality. As a forward-looking company, they are interested in building the front-end in React to keep their views orderly and easily modifiable.
 
 ### Objectives
+
 #### Learning Objectives
 After completing this assignment you should be able to:
 - Build a front-end React application from zero using `create-react-app`.
@@ -40,11 +41,18 @@ https://mallory-furniture-admin.now.sh/docs/
   - Component should appear/disappear
   - When a User clicks *Add To Cart* button for a single product
 
+### Setup
+1. Create React App
+2. Download Images
+
 
 ### Mockups
 
-#### Landing
+#### Landing Page
 [landing](mockups/mallory-landing.png)
 
-#### Single
+#### Single Page
+[landing](mockups/mallory-single.png)
+
+#### Terms + Conditions
 [landing](mockups/mallory-single.png)
