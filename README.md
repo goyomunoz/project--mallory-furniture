@@ -51,3 +51,13 @@ https://mallory-furniture-admin.now.sh/docs/
 - [Landing Page](mockups/mallory-landing.png)
 - [Single Product Page](mockups/mallory-single.png)
 - [Terms + Conditions Page](mockups/mallory-terms.png)
+
+### Explorer Mode
+- Highlight the current page in the Nav Menu
+
+
+### Adventure Mode
+- For the multi-listing components, a user should be able to filter for multiple parameters:
+  - On Sale
+  - Quality
+  - Max Price
