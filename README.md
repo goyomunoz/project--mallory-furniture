@@ -55,4 +55,4 @@ https://mallory-furniture-admin.now.sh/docs/
 ![single](mockups/mallory-single.png)
 
 #### Terms + Conditions
-![terms](mockups/mallory-single.png)
+![terms](mockups/mallory-terms.png)
