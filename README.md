@@ -46,7 +46,6 @@ The site map should be structured like this:
 
 ## Setup
 
-
 ```sh
 # create project
 create-react-app project--mallory-furniture
@@ -55,7 +54,8 @@ cd project--mallory-furniture
 # download project-files
 curl https://raw.githubusercontent.com/muktek/project--mallory-furniture/master/project-files.zip > project-files.zip
 
-#unzip
+# unzip project-files into src/ folder
+unzip project-files.zip -d unzip src-files.zip -d ./src/
 ```
 
 
