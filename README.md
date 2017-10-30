@@ -1,6 +1,6 @@
 # Mallory Furniture
 
-![Mallory Furniture Logo](mockups/malloury-furniture-logo.png)
+![Mallory Furniture Logo](mockups/mallory-furniture-logo.png)
 
 ### Description
 Mallory Furniture is a local vintage furniture retailer with a constantly changing selection. Their showroom has limited floor space so they initially wanted to build an ecommerce website to show all their inventory, including items in the warehouse.
@@ -47,13 +47,13 @@ https://mallory-furniture-admin.now.sh/docs/
 1. Create React App
 2. Download Images
 
-
 ### Mockups
 
 - [Landing Page](mockups/mallory-landing.png)
 - [Multiple Listing Page](mockups/mallory-multilisting-all.png)
   - [Demo of on sale filter feature](mockups/mallory-onsale-filter.gif)
 - [Single Product Page](mockups/mallory-single.png)
+- [Category Page](mockups/mallory-multilisting-category.png)
 - [Terms + Conditions Page](mockups/mallory-terms.png)
 
 ### Explorer Mode
