@@ -1,5 +1,7 @@
 # Mallory Furniture
 
+![Mallory Furniture Logo](mockups/malloury-furniture-logo.png)
+
 ### Description
 Mallory Furniture is a local vintage furniture retailer with a constantly changing selection. Their showroom has limited floor space so they initially wanted to build an ecommerce website to show all their inventory, including items in the warehouse.
 
