@@ -56,6 +56,17 @@ https://mallory-furniture-admin.now.sh/docs/
 - [Category Page](mockups/mallory-multilisting-category.png)
 - [Terms + Conditions Page](mockups/mallory-terms.png)
 
+### Designer Notes
+
+#### Color Pallete
+![color palette](mockups/mallory-color-palate)
+
+#### Typography
+From: [Google Fonts](https://fonts.google.com/)
+- Main Font: `Source Sans Pro`
+- Title Font: `Playfair Display`
+
+
 ### Explorer Mode
 - Highlight the current page in the Nav Menu
 
