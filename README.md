@@ -49,6 +49,7 @@ https://mallory-furniture-admin.now.sh/docs/
 ### Mockups
 
 - [Landing Page](mockups/mallory-landing.png)
+- [Multiple Listing Page](mockups/mallory-multilisting-all.png)
 - [Single Product Page](mockups/mallory-single.png)
 - [Terms + Conditions Page](mockups/mallory-terms.png)
 
