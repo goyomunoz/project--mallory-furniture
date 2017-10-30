@@ -55,7 +55,7 @@ cd project--mallory-furniture
 curl https://raw.githubusercontent.com/muktek/project--mallory-furniture/master/project-files.zip > project-files.zip
 
 # unzip project-files into src/ folder
-unzip project-files.zip -d unzip src-files.zip -d ./src/
+unzip project-files.zip -d ./src/
 ```
 
 
