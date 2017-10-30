@@ -50,6 +50,7 @@ https://mallory-furniture-admin.now.sh/docs/
 
 - [Landing Page](mockups/mallory-landing.png)
 - [Multiple Listing Page](mockups/mallory-multilisting-all.png)
+  - [Demo of on sale filter feature](mockups/mallory-onsale-filter.gif)
 - [Single Product Page](mockups/mallory-single.png)
 - [Terms + Conditions Page](mockups/mallory-terms.png)
 
