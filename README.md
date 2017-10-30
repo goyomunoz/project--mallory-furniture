@@ -59,7 +59,7 @@ https://mallory-furniture-admin.now.sh/docs/
 ### Designer Notes
 
 #### Color Pallete
-![color palette](mockups/mallory-color-palate)
+![color palette](mockups/mallory-color-palette)
 
 #### Typography
 From: [Google Fonts](https://fonts.google.com/)
