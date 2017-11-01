@@ -66,6 +66,10 @@ unzip project-files.zip -d ./src/
   - [Demo of on sale filter feature](mockups/mallory-onsale-filter.gif)
 - [Single Product Page](mockups/mallory-single.png)
 - [Category Page](mockups/mallory-multilisting-category.png)
+- Shopping Cart Component
+  - [Basic Style](mockups/mallory-cart-static.png)
+  - [Feature: Open + Close](mockups/mallory-cart-demo-part1.gif)
+  - [Feature: Add/Remove Items](mockups/mallory-cart-demo-part2.gif)
 - [Terms + Conditions Page](mockups/mallory-terms.png)
 
 ### DB Admin Notes
